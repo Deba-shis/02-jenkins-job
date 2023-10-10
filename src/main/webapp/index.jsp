@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World...Good eveninng</h2>
+<h2>To check the pipeline</h2>
 </body>
 </html>
